@@ -1,5 +1,5 @@
 # dotfiles-and-configs
-these are some dotfiles, script files and configs for my Fedora Linux setup that would be required to replicate my setup
+these are some dotfiles, script files and configs for my Fedora setup that would be required to replicate my setup
 
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/6fa93148-dd2a-4f13-b3d4-9eb8f632176f" />
