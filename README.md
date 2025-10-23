@@ -14,6 +14,19 @@ howdy for lockscreen authentication via webcam
 
 Some of the extensions I found useful, which I use:
 
-<img width="296" height="718" alt="image" src="https://github.com/user-attachments/assets/f9069935-5fef-4e92-b221-c386182fbdbf" />
+Another Window Session Manager,
+Blur my Shell,
+Caffeine,
+Clipboard Indicator,
+Colorblind Filters,
+Customize Clock on Lock Screen,
+Dash to Dock,
+Forge,
+GNOME Fuzzy App Search,
+Hide Top Bar,
+Quick Settings Tweaks,
+Top Bar Organizer,
+Transparent Top Bar (Adjustable transparency),
+Unblank lock screen
 
 
