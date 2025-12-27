@@ -4,7 +4,7 @@ these are some dotfiles, script files and configs for my Fedora setup that would
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/6fa93148-dd2a-4f13-b3d4-9eb8f632176f" />
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/6d541d19-db0e-4e66-b2ba-f1c098829e02" />
-find the terminal config in the folder
+used starship for terminal, find the config file starship.toml 
 
 I also use:
 
