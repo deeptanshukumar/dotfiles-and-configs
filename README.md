@@ -32,3 +32,5 @@ Transparent Top Bar (Adjustable transparency),
 Unblank lock screen
 
 
+
+
