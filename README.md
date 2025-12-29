@@ -30,7 +30,3 @@ Quick Settings Tweaks,
 Top Bar Organizer,
 Transparent Top Bar (Adjustable transparency),
 Unblank lock screen
-
-
-
-
